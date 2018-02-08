@@ -9,12 +9,18 @@ title: Bonsai @ JORTEC 2018
 ## Bonsai
 ![Bonsai](./assets/images/bonsai-circle.svg)
 
-[bonsai-rx.org](http://bonsai-rx.org)
-
 ### A visual language for scientific experimentation
 <table style="width: 100%;">
   <tr>
-    <th width="50%" align="center"><img alt="Champalimaud Foundation" src="./assets/images/cf.png" height="100"/></th>
+    <td width="33%" align="center" valign="bottom">João Frazão</td>
+    <td width="33%" align="center"><a href="http://bonsai-rx.org"><strong>bonsai-rx.org</strong></a></td>
+    <td width="33%" align="center">Gonçalo Lopes</td>
+  </tr>
+</table>
+
+<table style="width: 100%;">
+  <tr>
+    <th width="50%"><img alt="Champalimaud Foundation" src="./assets/images/cf.png" height="100"/></th>
     <th width="50%"><img alt="NeuroGEARS" src="./assets/images/neurogears.svg" align="right"/></th>
   </tr>
 </table>
